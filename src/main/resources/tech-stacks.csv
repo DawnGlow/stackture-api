@@ -1,0 +1,9 @@
+name,logoUrl,languages
+Spring Boot,https://spring.io/images/spring-initial.png,Back-End
+React,https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg,Front-End
+Vue.js,https://upload.wikimedia.org/wikipedia/commons/5/53/Vue.js_Logo.svg,Front-End
+Angular,https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg,Front-End
+Node.js,https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg,Back-End
+Express,https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png,Back-End
+Django,https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg,Back-End
+Flask,https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg,Back-End
